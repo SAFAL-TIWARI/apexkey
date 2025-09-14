@@ -34,8 +34,8 @@ Login Page/
 ## Quick Start
 
 ```bash
-git clone https://github.com/SAFAL-TIWARI/vaultkey.git
-cd VaultKey
+git clone https://github.com/SAFAL-TIWARI/apexkey.git
+cd apexkey
 open index.html in your browser
 ```
 
